@@ -11,3 +11,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaleOIC&layout=compact&theme=aura)
 
+## <center> Visitor Count
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/HaleOIC/count.svg" />
+</p>
