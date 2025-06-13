@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-- 😊 My name is **HaleOIC**, and I'm an graduate student for [embedded system](https://www.kth.se/en/studies/master/embedded-systems) at kth EECS.
-- 💡 I'm profoundly interested in **compiler optimization, Rust, Ocaml**.
-- 🔭 In my free time, I enjoying watching football.
+- 😊 My name is **Yunsong Yang**, and I'm pursing my master degree of [embedded system](https://www.kth.se/en/studies/master/embedded-systems) at kth EECS.
+- 💡 I'm profoundly interested in **Theorem prover, Haskell, Type-checking, Rust**.
+- 🔭 In my free time, I enjoy watching football, and am also fan of **Lionel Messi**
 - ⚽ I'm a also huge fan of the ***Lionel Messi***!
 - 📫 Contact me: [**Email**](mailto:shinehale730@gmail.com)
-<!-- - 👇 Check out my projects on Github! -->
 
 ![Hale's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaleOIC&show_icons=true&theme=aura)
 
